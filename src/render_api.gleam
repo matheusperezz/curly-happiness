@@ -1,5 +1,5 @@
-import gleam/erlang/process
 import gleam/bytes_builder
+import gleam/erlang/process
 import gleam/http/response.{Response}
 import mist
 
